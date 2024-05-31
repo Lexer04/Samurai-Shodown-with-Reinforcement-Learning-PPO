@@ -4,6 +4,9 @@
 
 <img src='images/P1vsP2.png' width="480px"/>
 
+##### Project Paper can be found here:
+[https://drive.google.com/file/d/1BtXo0k9NrjHELJXyvvi_TslXu-WWfTDG/view?usp=sharing](https://stable-baselines3.readthedocs.io/en/master/)
+
 Samurai Shodown, also known as Samurai Spirits (Japan) is a fighting game by SNK (株式会社SNK). Samurai Shodown is popular with its first release on Sega Genesis. Using the Sega Genesis Emulator, Reinforcement Learning agents can be trained to play retro games. With the policy gradient method, it can alternate between sampling data through interaction with the environment and optimizing a “surrogate” objective function using stochastic gradient ascent.
 
 With this method, reinforcement learning can be implemented in playing retro games such as atari games, whereas this project is to train the agents to play Samurai Shodown. In this project, agents will be programmed to fight one another in one environment. The first agent will be Haohmaru and the second agent will be WanFu.
