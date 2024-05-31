@@ -75,7 +75,7 @@ Make sure the format is correct and readable by gym retro
 ## Run Python
 Go into the directory and run the python script by:
 ``` shell
-cd rl_stable/stable-retro/retro/data/stable/SamuraiShodown-Genesis
+cd stable-retro/retro/data/stable/SamuraiShodown-Genesis
 python3 samurai.py
 ```
 ## Problem found and solved
