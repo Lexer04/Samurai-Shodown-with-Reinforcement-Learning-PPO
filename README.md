@@ -120,7 +120,7 @@ ln -s -f /usr/lib/x86_64-linux-gnu/libstdc++.so.6.0.30 $CONDA_PREFIX/lib/libstdc
 * [https://stable-baselines3.readthedocs.io/en/master/](https://stable-baselines3.readthedocs.io/en/master/)
 
 **PPO (Proximal Policy Optimization)**
-* [https://stable-baselines3.readthedocs.io/en/master/](https://stable-baselines3.readthedocs.io/en/master/)
+* [Proximal Policy Optimization Paper](https://arxiv.org/abs/1707.06347)
 
 **Gym**
 * [https://www.gymlibrary.dev/index.html](https://www.gymlibrary.dev/index.html)
