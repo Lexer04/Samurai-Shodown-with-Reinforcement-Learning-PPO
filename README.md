@@ -5,7 +5,7 @@
 <img src='images/P1vsP2.png' width="480px"/>
 
 ## Project Paper can be found here:
-[Training Deep Reinforcement Learning Agents for Competitive Play in Samurai Shodown on Sega Genesis](https://drive.google.com/file/d/1BtXo0k9NrjHELJXyvvi_TslXu-WWfTDG/view?usp=sharing)
+[Training Deep Reinforcement Learning Agents for Competitive Play in Samurai Shodown on Sega Genesis](https://drive.google.com/file/d/1BtXo0k9NrjHELJXyvvi_TslXu-WWfTDG/view?usp=sharing) by Yoshua Kaleb Purwanto
 
 ## Introduction
 
